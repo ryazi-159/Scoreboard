@@ -1,13 +1,6 @@
-# cof8d4d95b4d8448ab0bdc888
+#50M30N3
 
-## About Scrimba
+#About Score Counter
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+This is my first try of making scripts using javascript as i am learning it.
+I'll share my learning journey to the world if anyone wants to follow along.
